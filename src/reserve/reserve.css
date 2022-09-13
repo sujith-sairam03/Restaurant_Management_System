@@ -1,0 +1,103 @@
+
+
+.navbar h3.reserve{
+    background-color:royalblue;
+    color:white;
+  }
+
+  .here{
+    font-family: 'Trebuchet MS';
+    text-align: center;
+    color: white;
+    padding-bottom: 3%;
+    padding-top: 2%;
+  }
+  .fname{
+    padding-bottom: 3%;
+  }
+  .lname{
+    padding-bottom: 3%;
+  }
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .email{
+    padding-bottom: 3%;
+  }
+  .phonenumber{
+    padding-bottom: 3%;
+  }
+
+.firstlabel{
+    display: block;
+    color: white;
+    font-size: x-large;
+    text-align: center;
+  }
+
+.lastlabel{
+    display: block;
+    color: white;
+    font-size: x-large;
+    text-align: center;
+  }
+
+.emaillabel{
+    display: block;
+    color: white;
+    font-size: x-large;
+    text-align: center;
+  }
+
+.contactlabel{
+    display: block;
+    color: white;
+    font-size: x-large;
+    text-align: center;
+  }
+
+  .firstinput{
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    max-width: 100%;
+    margin: auto;
+    display: block;
+    
+  }
+
+  .lastinput{
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    max-width: 100%;
+    margin: auto;
+    display: block;
+    
+  }
+
+  .emailinput{
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    max-width: 100%;
+    margin: auto;
+    display: block;
+    
+  }
+
+  .contactinput{
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    max-width: 100%;
+    margin: auto;
+    display: block;
+    
+  }

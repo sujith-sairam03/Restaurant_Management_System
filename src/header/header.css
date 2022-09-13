@@ -1,0 +1,30 @@
+.home{
+  overflow: hidden;
+}
+.navbar{
+        overflow: hidden;
+        background-color:#080710;
+}
+
+.navbar h3 {
+    float:left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 15px 65px;
+    text-decoration: none;
+    font-family: serif;
+  }
+  .navbar h3:hover{
+    background-color: gray;
+  }
+  .navbar h3.home{
+    background-color:royalblue;
+    color:white;
+  }
+body{
+  background-color: black;
+  
+  
+}
+
